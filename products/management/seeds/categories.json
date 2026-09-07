@@ -1,0 +1,27 @@
+[
+  {
+    "code": "TECH",
+    "name": "Technology",
+    "is_active": true
+  },
+  {
+    "code": "HOME",
+    "name": "Home",
+    "is_active": true
+  },
+  {
+    "code": "SPORT",
+    "name": "Sports",
+    "is_active": true
+  },
+  {
+    "code": "BOOK",
+    "name": "Books",
+    "is_active": true
+  },
+  {
+    "code": "CLOTH",
+    "name": "Clothing",
+    "is_active": true
+  }
+]
